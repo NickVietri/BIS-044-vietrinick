@@ -5,4 +5,4 @@ theDF <- data.frame(x,y,z)
 names(theDF)<-c("Popularity", "Team Strength", "Sport")
 
 sd(theDF$`Team Strength`)
-
+#50/50
