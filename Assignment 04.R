@@ -27,3 +27,4 @@ df$Title <- replace(df$Title, df$Title == "Judge, Family Court", "Judge")
 df$Title <- replace(df$Title, df$Title == "Associate Justice", "Judge")
 df$Title <- replace(df$Title, df$Title == "City Judge", "Judge")
 df$Title <- replace(df$Title, df$Title == "City Judge, City Court", "Judge")
+#-5 missing replace commands, -5 count command after replace 90/100
