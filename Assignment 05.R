@@ -19,4 +19,5 @@ ggplot(data=tonnage)
   ylab("Tonnage") +
   theme_minimal()
   
+  #-5 missing + on graph 95/100
   
